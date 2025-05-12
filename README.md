@@ -3,13 +3,27 @@
 
 ##########################
 run lmstudio
+
+
 lod model
+
+
 start server
+
+
 all files in chat-app folderr
+
+
 main.rs in src folder
 
+
 cd chat-app
+
+
 cargo build
+
+
+
 cargo run
 
 ##############################
