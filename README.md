@@ -1,5 +1,18 @@
 # Chat Application
 
+
+##########################
+run lmstudio
+lod model
+start server
+all files in chat-app folderr
+main.rs in src folder
+
+cd chat-app
+cargo build
+cargo run
+
+##############################
 This project is a simple chat application built in Rust. It interacts with a chat model API to send user messages and receive responses.
 
 ## Project Structure
